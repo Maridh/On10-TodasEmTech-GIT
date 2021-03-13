@@ -23,6 +23,8 @@ h2 {
 
 .container_aluna {
   margin: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 .container_aluna a img {
